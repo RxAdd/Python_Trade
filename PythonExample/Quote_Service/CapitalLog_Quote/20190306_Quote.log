@@ -1,0 +1,61 @@
+-----------------------------------------------------------------
+[8428] 2019/03/06 00:06:59.119 SKQuoteLib_EnterMonitor IP¡Gsrvsolace-fg.capital.com.tw
+[8428] 2019/03/06 00:06:59.151 OnSessionConnect¡ACode: 0
+[8428] 2019/03/06 00:06:59.226 market(0)  Ready!
+[8428] 2019/03/06 00:06:59.230 market(3)  Ready!
+[8428] 2019/03/06 00:06:59.230 market(2)  Ready!
+[8428] 2019/03/06 00:06:59.236 market(3)  Ready!
+[8428] 2019/03/06 00:06:59.237 market(1)  Ready!
+[8428] 2019/03/06 00:06:59.237 market(2)  Ready!
+[8428] 2019/03/06 00:06:59.237 market(4)  Ready!
+[8428] 2019/03/06 00:06:59.358 Market Info is OK!
+[8428] 2019/03/06 00:06:59.395 Catalog info is OK!
+[8428] 2019/03/06 00:07:04.750  SKQuoteLib_RequestTicks ( 0 , TX00 )
+[8428] 2019/03/06 00:07:04.750 Return PageNo¡G 0 
+[8428] 2019/03/06 00:07:33.428 SKQuoteLib_GetKLine(0,0050 )
+[8428] 2019/03/06 00:08:02.922 SKQuoteLib_GetKLine(0,00637L )
+[8428] 2019/03/06 00:08:13.365 SKQuoteLib_GetKLine(0,00637L )
+[14300] 2019/03/06 09:56:23.439 SKQuoteLib_RequestStocks (0 , TX00)
+[14300] 2019/03/06 09:56:23.439 Divide StockNo {TX00}
+[14300] 2019/03/06 09:56:23.439 Stock Not Exist 
+[14300] 2019/03/06 09:56:27.363  SKQuoteLib_RequestTicks ( 0 , TX00 )
+[14300] 2019/03/06 09:56:28.950  SKQuoteLib_RequestLiveTick ( 0 , TX00 )
+[14300] 2019/03/06 09:56:36.394 SKQuoteLib_EnterMonitor IP¡Gsrvsolace-tp.capital.com.tw
+[14300] 2019/03/06 09:56:36.432 OnSessionConnect¡ACode: 0
+[14300] 2019/03/06 09:56:36.526 market(0)  Ready!
+[14300] 2019/03/06 09:56:36.532 market(1)  Ready!
+[14300] 2019/03/06 09:56:36.534 market(2)  Ready!
+[14300] 2019/03/06 09:56:36.535 market(3)  Ready!
+[14300] 2019/03/06 09:56:36.538 market(2)  Ready!
+[14300] 2019/03/06 09:56:36.538 market(4)  Ready!
+[14300] 2019/03/06 09:56:36.544 market(3)  Ready!
+[14300] 2019/03/06 09:56:36.710 Market Info is OK!
+[14300] 2019/03/06 09:56:36.772 Catalog info is OK!
+[14300] 2019/03/06 09:56:42.873 SKQuoteLib_RequestStocks (0 , TX00)
+[14300] 2019/03/06 09:56:42.873 Divide StockNo {TX00}
+[14300] 2019/03/06 09:56:42.873 Add Basket MarketNo¡G2 StockIdx¡G0
+[14300] 2019/03/06 09:56:42.873 Return PageNo¡G 1 
+[14300] 2019/03/06 09:56:49.042  SKQuoteLib_RequestTicks ( 0 , TX00 )
+[14300] 2019/03/06 09:56:49.042 Return PageNo¡G 0 
+[14300] 2019/03/06 09:57:02.502  SKQuoteLib_RequestLiveTick ( 0 , TX00 )
+[14300] 2019/03/06 09:57:02.502 Return PageNo¡G 0 
+[12132] 2019/03/06 10:28:29.601 SKQuoteLib_RequestStocks (0 , TX00)
+[12132] 2019/03/06 10:28:29.601 Divide StockNo {TX00}
+[12132] 2019/03/06 10:28:29.601 Stock Not Exist 
+[12132] 2019/03/06 10:28:32.949 SKQuoteLib_EnterMonitor IP¡Gsrvsolace-fg.capital.com.tw
+[12132] 2019/03/06 10:28:33.017 OnSessionConnect¡ACode: 0
+[12132] 2019/03/06 10:28:33.088 market(0)  Ready!
+[12132] 2019/03/06 10:28:33.097 market(3)  Ready!
+[12132] 2019/03/06 10:28:33.097 market(2)  Ready!
+[12132] 2019/03/06 10:28:33.097 market(1)  Ready!
+[12132] 2019/03/06 10:28:33.097 market(2)  Ready!
+[12132] 2019/03/06 10:28:33.098 market(3)  Ready!
+[12132] 2019/03/06 10:28:33.098 market(4)  Ready!
+[12132] 2019/03/06 10:28:33.246 Market Info is OK!
+[12132] 2019/03/06 10:28:33.285 Catalog info is OK!
+[12132] 2019/03/06 10:28:35.462 SKQuoteLib_RequestStocks (0 , TX00)
+[12132] 2019/03/06 10:28:35.462 Divide StockNo {TX00}
+[12132] 2019/03/06 10:28:35.462 Add Basket MarketNo¡G2 StockIdx¡G0
+[12132] 2019/03/06 10:28:35.462 Return PageNo¡G 1 
+[12132] 2019/03/06 10:29:06.366 SKQuoteLib_GetKLine(0,TX00 )
+[12132] 2019/03/06 10:29:28.249 SKQuoteLib_GetKLine(4,TX00 )
