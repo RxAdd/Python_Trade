@@ -7,7 +7,7 @@ import comtypes.client
 import comtypes.gen.SKCOMLib as sk
 skC = comtypes.client.CreateObject(sk.SKCenterLib,interface=sk.ISKCenterLib)
 skO = comtypes.client.CreateObject(sk.SKOrderLib,interface=sk.ISKOrderLib)
-
+# Test
 # 畫視窗用物件
 from tkinter import *
 from tkinter.ttk import *
